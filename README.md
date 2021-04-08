@@ -24,6 +24,15 @@ I am interested in working on the frontend, but still learning backend as well. 
 <img src="https://github.com/tomis03/repos-images/blob/master/icons/node.png?raw=true" alt="nodejs" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/express.png?raw=true" alt="expressjs" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/fastify.png?raw=true" alt="fastifyjs" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/postgres.png?raw=true" alt="postgresql" width="40" height="40" />
 </span>
 
+# Some of my projects :star2:
+<p>&ndash; :star: <a href="https://gromar.netlify.app/">https://gromar.netlify.app/</a></p>
+<p>&ndash; :star: <a href="https://medica-demo.netlify.app/">https://medica-demo.netlify.app/</a></p>
+<p>&ndash; :star: <a href="https://tomis03.github.io/food-app/">https://tomis03.github.io/food-app/</a></p>
+<p>&ndash; :star: <a href="https://tomis03.github.io/palindrome-checker/">https://tomis03.github.io/palindrome-checker/</a></p>
+<p>&ndash; :star: <a href="https://vue-360-images-slider.herokuapp.com/">https://vue-360-images-slider.herokuapp.com/</a></p>
+
+<p>Some of my projects are in private repositories so you are not able to see them but you can still see the rest. :smile:</p>
+
 # Would you like to contact me? :smiley:
 <p>&ndash; <a href="https://pl.linkedin.com/in/jedryczka-tomasz">See me on LinkedIn</a></p>
 <p>or</p>
