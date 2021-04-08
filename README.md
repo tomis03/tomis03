@@ -15,7 +15,7 @@ I am interested in working on the frontend, but still learning backend as well. 
 <img src="https://github.com/tomis03/repos-images/blob/master/icons/html.png?raw=true" alt="html" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/css.png?raw=true" alt="css" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/js.png?raw=true" alt="javascript" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/vue.png?raw=true" alt="vue" width="40" height="40" />&nbsp;<img src="https://github.com/tomis03/repos-images/blob/master/icons/nuxt.png?raw=true" alt="nuxt" width="40" height="40" />
 </span>
 
-### Backend (I'm still learning):
+### Backend | Beginner (I'm still learning):
 <p>&ndash; :cyclone: NodeJS</p>
 <p>&ndash; :cyclone: ExpressJS</p>
 <p>&ndash; :cyclone: FastifyJS</p>
